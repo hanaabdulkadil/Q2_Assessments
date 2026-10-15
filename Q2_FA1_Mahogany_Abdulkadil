@@ -62,5 +62,4 @@ print("Result:", result)
 
 #Why is it better to divide the calculator program into functions instead of writing everything in one long block of code?
 #Breaking the code itno functions keeps everything organized and easy to read. If one math operation breaks or needs a fix
-#(like handing division by zero), you only have to look at that one small function instread of digging through
-#a huge block of code
+#(like handing division by zero), you only have to look at that one small function instread of digging through a huge block of code
